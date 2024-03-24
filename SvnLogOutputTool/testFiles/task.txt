@@ -1,0 +1,11 @@
+一起输入多个文件
+处理输出vector
+输出一个input的指针
+刘超：处理重复，相同文件，以及重复的文件内容
+
+
+xml和txt用不同read读
+->
+txtparser和xmlparser继承parser，重载ok
+
+run用do，判断的顺序要改正ok

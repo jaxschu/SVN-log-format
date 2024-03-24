@@ -1,0 +1,5 @@
+【问题单或变更号】       【提交人】               【修改人】               【修改内容】
+DEF008254                 tongkangkang            童康康                   行程不可拖动时，文本可拖动
+DEF010122                 liuqiannan               刘倩囡                  【BiTRACON 800】ats-ifs协议增加列车属性
+                          liuqiannan              刘倩囡                   编译告警
+Write  In Successful

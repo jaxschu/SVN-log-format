@@ -1,0 +1,11 @@
+D:\Repo\SvnLogTool2\testFiles\svnlog3.txt
+
+D:\Repo\SvnLogTool2\testFiles\Output1.txt
+
+D:\Repo\SvnLogTool2\testFiles\svnlogSame.txt
+
+D:\Repo\SvnLogTool2\testFiles\testSvnLog.xml
+
+E:\ATS\3 后台服务组\SvnLogOutputTool(withComments)\testFiles\svnlog3.txt
+
+E:\ATS\3 后台服务组\SvnLogOutputTool(withComments)\testFiles\Output1.txt

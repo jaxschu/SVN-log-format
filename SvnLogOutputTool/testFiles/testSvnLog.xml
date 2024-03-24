@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="80395">
+<author>liuaijun</author>
+<date>2019-06-18T08:01:33.928597Z</date>
+<msg>【问题单或变更号】：NA
+【修  改  内  容】：增加注释
+【修    改    人】：沈友文
+【审    核    人】：刘爱军</msg>
+</logentry>
+<logentry
+   revision="80281">
+<author>yangjingting</author>
+<date>2019-06-14T09:53:49.799031Z</date>
+<msg>【问题单或变更号】：DEF010861
+【修  改  内  容】：更新车次号或更新时刻表，重新计算早晚点及站停倒计时; 图定跳停列车取消扣车未更新预计线
+【修    改    人】：
+【审    核    人】：
+</msg>
+</logentry>
+<logentry
+   revision="80224">
+<author>yangjingting</author>
+<date>2019-06-14T00:59:37.751169Z</date>
+<msg>【问题单或变更号】：DEF010588 
+【修  改  内  容】：跳停出库车，首个站台的出站进路自动申请不被计划时间限制
+【修    改    人】：
+【审    核    人】：</msg>
+</logentry>
+<logentry
+   revision="80156">
+<author>liuaijun</author>
+<date>2019-06-12T10:28:54.497555Z</date>
+<msg>【问题单或变更号】：DEF010044
+【修  改  内  容】： 【重4线】再次读取不同时间段的回放文件，告警信息不在回放时间范围内
+【修    改    人】：卢红月
+【审    核    人】：刘爱军</msg>
+</logentry>
+<logentry
+   revision="80131">
+<author>yangjingting</author>
+<date>2019-06-12T07:39:15.785156Z</date>
+<msg>【问题单或变更号】：DEF009854
+【修  改  内  容】：修正发送PIS终点站错误
+【修    改    人】：
+【审    核    人】：</msg>
+</logentry>
+<logentry
+   revision="80058">
+<author>yangjingting</author>
+<date>2019-06-11T08:43:40.837918Z</date>
+<msg>【问题单或变更号】：DEF011327
+【修  改  内  容】：(【重4复制问题单】ATS-IFS接口协议无效值问题)
+【修    改    人】：刘倩囡
+【审    核    人】：杨静霆</msg>
+</logentry>
+<logentry
+   revision="79893">
+<author>liuaijun</author>
+<date>2019-06-06T01:16:00.456141Z</date>
+<msg>【问题单或变更号】：DEF009854
+【修  改  内  容】：重庆四互联互通_限制对跨线车次的编辑
+【修    改    人】：童康康
+【审    核    人】：shenyouwne</msg>
+</logentry>
+<logentry
+   revision="79805">
+<author>liuaijun</author>
+<date>2019-06-04T03:24:47.925716Z</date>
+<msg>【问题单或变更号】：DEF009842
+【修  改  内  容】：[解析其他线Dct数据解决跨线车次窗无法复显的问题]
+【修    改    人】：林健
+【审    核    人】：沈友文</msg>
+</logentry>
+<logentry
+   revision="79793">
+<author>liuaijun</author>
+<date>2019-06-04T02:00:08.354274Z</date>
+<msg>【问题单或变更号】：DEF009842
+【修  改  内  容】：[解析其他线Dct数据解决跨线车次窗无法复显的问题]
+【修    改    人】：林健
+【审    核    人】：沈友文</msg>
+</logentry>
+<logentry
+   revision="79759">
+<author>yangjingting</author>
+<date>2019-06-03T02:59:31.231098Z</date>
+<msg>【问题单或变更号】：DEF009854
+【修  改  内  容】：[重4线]互联互通跨线运营场景下，ats需要支持跨线运行图和pis中的跨线终点站信息
+【修    改    人】：刘倩囡
+【审    核    人】：</msg>
+</logentry>
+<logentry
+   revision="79753">
+<author>yangjingting</author>
+<date>2019-06-03T02:13:18.244362Z</date>
+<msg>【问题单或变更号】：DEF009854
+【修  改  内  容】：[重4线]互联互通跨线运营场景下，ats需要支持跨线运行图和pis中的跨线终点站信息
+【修    改    人】：刘倩囡
+【审    核    人】：</msg>
+</logentry>
+<logentry
+   revision="79751">
+<author>yangjingting</author>
+<date>2019-06-03T01:54:47.580331Z</date>
+<msg>【问题单或变更号】：DEF011327
+【修  改  内  容】：(【重4复制问题单】ATS-IFS接口协议无效值问题)
+【修    改    人】：刘倩囡
+【审    核    人】：杨静霆</msg>
+</logentry>
+<logentry
+   revision="79477">
+<author>liuaijun</author>
+<date>2019-05-28T02:29:56.822165Z</date>
+<msg>【问题单或变更号】：DEF010044
+【修  改  内  容】：【重4线】再次读取不同时间段的回放文件，告警信息不在回放时间范围内
+【修    改    人】：康志明
+【审    核    人】：杨静霆</msg>
+</logentry>
+<logentry
+   revision="79439">
+<author>liuaijun</author>
+<date>2019-05-27T09:56:55.150577Z</date>
+<msg>【问题单或变更号】：DEF009854
+【修  改  内  容】：修改时刻表读写，限制跨线时刻表编辑
+【修    改    人】：童康康
+【审    核    人】：沈友文</msg>
+</logentry>
+<logentry
+   revision="79433">
+<author>liuaijun</author>
+<date>2019-05-27T09:26:49.907519Z</date>
+<msg>【问题单或变更号】：DEF010232
+【修  改  内  容】： 【重4线】管理员工作站弹出式报警确认窗口被挡住，建议二次确认（用户无权限）窗口前置  问题单合入CQ4分支
+【修    改    人】：卢红月
+【审    核    人】：沈友文</msg>
+</logentry>
+<logentry
+   revision="79364">
+<author>shenyouwen</author>
+<date>2019-05-24T08:42:38.187107Z</date>
+<msg>【问题单或变更号】：DEF011378 DEF011196【重4线】ATS界面“设备连接状态第5，6，7，8项“ZC.ON”状态未知。运营要求实际与ATS没有连接的设备，不要显示出来。
+【修  改  内  容】：
+【修    改    人】：fengke
+【审    核    人】：shyw</msg>
+</logentry>
+<logentry
+   revision="79301">
+<author>yangjingting</author>
+<date>2019-05-24T02:56:12.325609Z</date>
+<msg>【问题单或变更号】：DEF009854
+【修  改  内  容】：[重4线]互联互通跨线运营场景下，ats需要支持跨线运行图和pis中的跨线终点站信息
+【修    改    人】：刘倩囡
+【审    核    人】：</msg>
+</logentry>
+<logentry
+   revision="79249">
+<author>yangjingting</author>
+<date>2019-05-22T07:02:22.569992Z</date>
+<msg>【问题单或变更号】：DEF009854
+【修  改  内  容】：([重4线]互联互通跨线运营场景下，ats需要支持跨线运行图和pis中的跨线终点站信息)
+【修    改    人】：杨静霆
+【审    核    人】：</msg>
+</logentry>
+<logentry
+   revision="78924">
+<author>yangjingting</author>
+<date>2019-05-13T08:48:17.446357Z</date>
+<msg>【问题单或变更号】：DEF009854
+【修  改  内  容】：([重4线]互联互通跨线运营场景下，ats需要支持跨线运行图和pis中的跨线终点站信息)
+【修    改    人】：刘倩囡
+【审    核    人】：杨静霆</msg>
+</logentry>
+<logentry
+   revision="78887">
+<author>liuaijun</author>
+<date>2019-05-10T11:23:32.572347Z</date>
+<msg>【问题单或变更号】：DEF009854
+【修  改  内  容】：运行图跨线编译失败
+【修    改    人】：童康康
+【审    核    人】：杨静霆</msg>
+</logentry>
+</log>

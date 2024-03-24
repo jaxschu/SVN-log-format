@@ -1,0 +1,47 @@
+【问题单或变更号】【修改内容】【修改人】【提交人】
+DEF008254行程不可拖动时，文本可拖动童康康 tongkangkang 
+DEF010122【BiTRACON 800】ats-ifs协议增加列车属性 刘倩囡 liuqiannan 
+ 编译告警刘倩囡 liuqiannan 
+DEF010307大屏工作站支持多屏显示linjian linjian 
+DEF010205站停时间窗口遮挡童康康 tongkangkang 
+DEF009930状态栏修改回退童康康 tongkangkang 
+DEF010574【互联互通】4号线复视洪湖东站的区段锁闭为双向箭头刘倩囡 liuqiannan 
+ 编译告警刘倩囡 liuqiannan 
+ 编译告警刘倩囡 liuqiannan 
+DEF010655【重4线】ATS无法进行道岔强扳操作 fengke 
+DEF009854解析临线数据时segment所属线路号错误 yangjingting 
+DEF009854支持跨线计划图保存及跨线车次号 yangjingting 
+DEF010590修正跳停计算区间运行时间 yangjingting 
+DEF010588修正出库车未判断经过的折返轨图定跳停 yangjingting 
+DEF010014修正发送给界面的列车早晚点时间的正负情况 yangjingting 
+DEF009854scs无法取得区段名时，仍保存区段ID yangjingting 
+DEF009854tts可根据跨线图生成预设标识，并在列车跨线时匹配该标识 yangjingting 
+DEF008866行程首站台&行程首位置 图定站停时间大于配置范围时，按图定时间计算，不超过500s时，发送给车载的站停时间与DTI一致 yangjingting 
+DEF010790,DEF010795列车出库，在转换轨建立通信时，修改当前位置已追踪非通信车标的车组号为实际车组号 yangjingting 
+DEF010847，DEF010861设置站台站停时分功能改为列车到站后的总站停时间；列车到站后，更新车次号或更新时刻表，重新计算早晚点及站停倒计时 yangjingting 
+DEF010585列车经过连续的两个组区段时，清除离开位置站台的一次命令 yangjingting 
+DEF010861更新车次号或更新时刻表，重新计算早晚点及站停倒计时; 图定跳停列车取消扣车未更新预计线 yangjingting 
+DEF010861更新车次号或更新时刻表，重新计算早晚点及站停倒计时; 图定跳停列车取消扣车未更新预计线 yangjingting 
+DEF008866行程首位置&行程首个停车站台，按早晚点时间显示DTI，并对触发进路进行时间限制 yangjingting 
+DEF010585列车经过连续的两个组区段时，清除离开位置站台的一次命令 yangjingting 
+DEF009854([重4线]互联互通跨线运营场景下，ats需要支持跨线运行图和pis中的跨线终点站信息)刘倩囡 yangjingting 
+DEF009854([重4线]互联互通跨线运营场景下，ats需要支持跨线运行图和pis中的跨线终点站信息)刘倩囡 yangjingting 
+DEF009854运行图支持跨线时刻表的读取，下发，匹配童康康 liuaijun 
+DEF009854运行图跨线编译失败童康康 liuaijun 
+DEF009854([重4线]互联互通跨线运营场景下，ats需要支持跨线运行图和pis中的跨线终点站信息)刘倩囡 yangjingting 
+DEF009854([重4线]互联互通跨线运营场景下，ats需要支持跨线运行图和pis中的跨线终点站信息)杨静霆 yangjingting 
+DEF009854[重4线]互联互通跨线运营场景下，ats需要支持跨线运行图和pis中的跨线终点站信息刘倩囡 yangjingting 
+DEF011378 DEF011196【重4线】ATS界面“设备连接状态第5，6，7，8项“ZC.ON”状态未知。运营要求实际与ATS没有连接的设备，不要显示出来。fengke shenyouwen 
+DEF010232 【重4线】管理员工作站弹出式报警确认窗口被挡住，建议二次确认（用户无权限）窗口前置  问题单合入CQ4分支卢红月 liuaijun 
+DEF009854修改时刻表读写，限制跨线时刻表编辑童康康 liuaijun 
+DEF010044【重4线】再次读取不同时间段的回放文件，告警信息不在回放时间范围内康志明 liuaijun 
+DEF011327(【重4复制问题单】ATS-IFS接口协议无效值问题)刘倩囡 yangjingting 
+DEF009854[重4线]互联互通跨线运营场景下，ats需要支持跨线运行图和pis中的跨线终点站信息刘倩囡 yangjingting 
+DEF009854[重4线]互联互通跨线运营场景下，ats需要支持跨线运行图和pis中的跨线终点站信息刘倩囡 yangjingting 
+DEF009842[解析其他线Dct数据解决跨线车次窗无法复显的问题]林健 liuaijun 
+DEF009842[解析其他线Dct数据解决跨线车次窗无法复显的问题]林健 liuaijun 
+DEF009854重庆四互联互通_限制对跨线车次的编辑童康康 liuaijun 
+DEF011327(【重4复制问题单】ATS-IFS接口协议无效值问题)刘倩囡 yangjingting 
+DEF009854修正发送PIS终点站错误 yangjingting 
+DEF010044 【重4线】再次读取不同时间段的回放文件，告警信息不在回放时间范围内卢红月 liuaijun 
+Write In Successful
