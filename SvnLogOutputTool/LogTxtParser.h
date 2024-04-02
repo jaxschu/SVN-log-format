@@ -4,7 +4,6 @@
 * @date 6-19-2019 Xu Peili: Create the file.
 */
 
-#pragma once
 #ifndef LOG_TXT_INPUT_H
 #define LOG_TXT_INPUT_H
 
@@ -23,9 +22,9 @@ namespace LOG
             //Get txt file Content
             if (sFileName.find(".txt") != sFileName.npos)
             {
-                m_structTxtAsk.m_sMarkPrbNo = "ÎÊÌâµ¥»ò±ä¸üºÅ";
-                m_structTxtAsk.m_sMarkRvseContent = "ÐÞ  ¸Ä  ÄÚ  ÈÝ";
-                m_structTxtAsk.m_sMarkRvsePerson = "ÐÞ    ¸Ä    ÈË";
+                m_structTxtAsk.m_sMarkPrbNo = "ï¿½ï¿½ï¿½âµ¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½";
+                m_structTxtAsk.m_sMarkRvseContent = "ï¿½ï¿½  ï¿½ï¿½  ï¿½ï¿½  ï¿½ï¿½";
+                m_structTxtAsk.m_sMarkRvsePerson = "ï¿½ï¿½    ï¿½ï¿½    ï¿½ï¿½";
                 m_structTxtAsk.m_sMarkUploadPerson = "+0800";
             }
             else

@@ -4,7 +4,6 @@
 * @date 6-22-2019 Xu Peili: Create the file.
 */
 
-#pragma once
 #ifndef LOG_INFO_H
 #define LOG_INFO_H
 

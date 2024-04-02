@@ -4,7 +4,6 @@
 * @date 6-19-2019 Xu Peili: Create the file.
 */
 
-#pragma once
 #ifndef LOG_XML_INPUT_H
 #define LOG_XML_INPUT_H
 
@@ -31,9 +30,9 @@ namespace LOG
             //Get xml file Content
             if (sFileName.find(".xml") != sFileName.npos)
             {
-                m_structXmlAsk.m_sMarkPrbNo = "ÎÊÌâµ¥»ò±ä¸üºÅ";
-                m_structXmlAsk.m_sMarkRvseContent = "ÐÞ  ¸Ä  ÄÚ  ÈÝ";
-                m_structXmlAsk.m_sMarkUploadPerson = "ÐÞ    ¸Ä    ÈË";
+                m_structXmlAsk.m_sMarkPrbNo = "ï¿½ï¿½ï¿½âµ¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½";
+                m_structXmlAsk.m_sMarkRvseContent = "ï¿½ï¿½  ï¿½ï¿½  ï¿½ï¿½  ï¿½ï¿½";
+                m_structXmlAsk.m_sMarkUploadPerson = "ï¿½ï¿½    ï¿½ï¿½    ï¿½ï¿½";
                 m_structXmlAsk.m_sMarkUploadPerson = "author";
             }
             else
