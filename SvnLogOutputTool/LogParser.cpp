@@ -164,7 +164,7 @@ namespace LOG
     string LogParser::ProcessRvseContent(std::string strRvseContent)
     {
         std::string strResult = " ";
-        std::string flag = "��";
+        std::string flag = "";
         int Position = 0;
         int strSize = 0;
         strSize = strRvseContent.size();
@@ -179,7 +179,7 @@ namespace LOG
     string LogParser::ProcessRvsePerson(std::string strRvsePerson)
     {
         std::string strResult = " ";
-        std::string flag = "��";
+        std::string flag = "";
         int Position = 0;
         int strSize = 0;
         strSize = strRvsePerson.size();
