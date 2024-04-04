@@ -131,7 +131,7 @@ namespace LOG
         return vecLogInfo;
     }
 
-    //提取申请人选项的内容：根据两个"|"做两次substr，提取中间的内容
+    
     string LogParser::ProcessUploadPerson(std::string strUploadPerson)
     {
         std::string  strResult = "";
@@ -145,7 +145,7 @@ namespace LOG
         strResult = strResult.substr(0, Position);
         return strResult;
     }
-    //提取问题单号的内容：通过找寻"D"做substr,提取D后面的内容
+    
     string LogParser::ProcessPrbNo(std::string strPrbNo)
     {
         std::string strResult = " ";
@@ -160,11 +160,11 @@ namespace LOG
         }
         return strResult;
     }
-    //提取修改内容的内容：通过中文字符的"："进行substr操作，图区：后面的内容
+    
     string LogParser::ProcessRvseContent(std::string strRvseContent)
     {
         std::string strResult = " ";
-        std::string flag = "：";
+        std::string flag = "锟斤拷";
         int Position = 0;
         int strSize = 0;
         strSize = strRvseContent.size();
@@ -175,11 +175,11 @@ namespace LOG
         }
         return strResult;
     }
-    //提取修改人的内容:通过中文字符的"："进行substr操作，图区：后面的内容
+    
     string LogParser::ProcessRvsePerson(std::string strRvsePerson)
     {
         std::string strResult = " ";
-        std::string flag = "：";
+        std::string flag = "锟斤拷";
         int Position = 0;
         int strSize = 0;
         strSize = strRvsePerson.size();

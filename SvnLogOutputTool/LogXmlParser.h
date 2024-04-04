@@ -30,9 +30,9 @@ namespace LOG
             //Get xml file Content
             if (sFileName.find(".xml") != sFileName.npos)
             {
-                m_structXmlAsk.m_sMarkPrbNo = "���ⵥ������";
-                m_structXmlAsk.m_sMarkRvseContent = "��  ��  ��  ��";
-                m_structXmlAsk.m_sMarkUploadPerson = "��    ��    ��";
+                m_structXmlAsk.m_sMarkPrbNo = "";
+                m_structXmlAsk.m_sMarkRvseContent = "";
+                m_structXmlAsk.m_sMarkUploadPerson = "";
                 m_structXmlAsk.m_sMarkUploadPerson = "author";
             }
             else

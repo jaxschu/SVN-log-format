@@ -22,9 +22,9 @@ namespace LOG
             //Get txt file Content
             if (sFileName.find(".txt") != sFileName.npos)
             {
-                m_structTxtAsk.m_sMarkPrbNo = "���ⵥ������";
-                m_structTxtAsk.m_sMarkRvseContent = "��  ��  ��  ��";
-                m_structTxtAsk.m_sMarkRvsePerson = "��    ��    ��";
+                m_structTxtAsk.m_sMarkPrbNo = "";
+                m_structTxtAsk.m_sMarkRvseContent = "";
+                m_structTxtAsk.m_sMarkRvsePerson = "";
                 m_structTxtAsk.m_sMarkUploadPerson = "+0800";
             }
             else
