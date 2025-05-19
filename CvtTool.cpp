@@ -21,12 +21,10 @@ using WCHAR_UTF8 = codecvt_utf8<wchar_t>;
 namespace LOG
 {
     CVT::CVT()
-    {
-    }
+    {}
 
     CVT::~CVT()
-    {
-    }
+    {}
 
     string CVT::cvtTool(string str)
     {
