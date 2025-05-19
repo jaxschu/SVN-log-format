@@ -1,4 +1,3 @@
-#pragma once
 #ifndef LOG_PARSER_H
 #define LOG_PARSER_H
 

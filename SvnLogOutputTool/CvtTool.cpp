@@ -9,6 +9,7 @@
 #include <cstdio>
 #include <sstream>
 #include <codecvt>
+#include <locale>
 #include<cstring>
 #include "CvtTool.h"
 using namespace std;
